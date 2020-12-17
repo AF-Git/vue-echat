@@ -1,0 +1,195 @@
+{
+    "code": 0,
+    "timeDiffer": 0,
+    "data": {
+        "list": [
+            {
+                "createTime": 1607494866757,
+                "body": "{\"bodyContent\":\"yb+tNhXhIGmyTbJcWpeRayVGiTTMd58EzfUNRNvRgh5w3xTCm8Sx+NEg3Sea7g8rHe9+kYA4mcY8GHtAF6BrIRU0s+SRG9iTtmw0xu1/CRW/C1F5gU6/6u13kruOHJKCAWj0tlVRt4Q=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1607494866756\",\"bodyType\":\"3\"}",
+                "mId": 442,
+                "readNum": 0
+            },
+            {
+                "createTime": 1607494812090,
+                "body": "{\"bodyContent\":\"d62xMnfxKuZVNmg73mmZWCuMSYjdxA7zeYQoJ5rs8aWcnSl+ML6D1fMAmty+9EOrSIcMU8knTQOEVvWKZY+ICA==\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1607494812089\",\"bodyType\":\"1\"}",
+                "mId": 441,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606792663136,
+                "body": "{\"bodyContent\":\"{\\\"inviter\\\":[{\\\"userId\\\":\\\"1011757\\\",\\\"userName\\\":\\\"测试-陈清\\\"}],\\\"operatorId\\\":\\\"1010464\\\",\\\"operatorName\\\":\\\"产品-WGH\\\",\\\"type\\\":15}\",\"bodyFrom\":\"12314\",\"bodyLevel\":0,\"bodyTime\":\"1606792663135\",\"bodyType\":\"19\"}",
+                "mId": 440,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606792608395,
+                "body": "{\"bodyContent\":\"VG+2gNZU+P7TYtQLYYkfxN/LhDlL+Rp+Jkz3n91YhBcuOG7C4ji6ueY3djxPw09o0U3dNTLKzrAaBD45aVzZPcOim5y4gnLI+EU9rSsmLlZwjV7X6opFYv8QV7uqFBVg5PvZL/Vn/rmgGkyANFxqEZUemHSZ4byb8Y4Oe4PFkW7nxYC+bZnT/y6pBx2dgENgsXaR1PGDUCPQZgGQQd304g==\",\"bodyExpire\":0,\"bodyFrom\":\"1011757\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1606792608393\",\"bodyType\":\"3\",\"isSender\":false}",
+                "mId": 439,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606792485830,
+                "body": "{\"bodyContent\":\"VG+2gNZU+P7TYtQLYYkfxN/LhDlL+Rp+Jkz3n91YhBcuOG7C4ji6uU5HELYZUgK/jrqyAEbe2sQBGmyXSRAFMdiyzaSbZDLsGJGjsGJrgXnKlUplddaR0lRMxnipETBUDjy0yhyVoY8q/DJy3pK62ymOdbNnEj71k1T5auExbhNmYZ76XXP8pNPeCUlvv//mQDsfW01vNZfl7o7PEyDJlg==\",\"bodyExpire\":0,\"bodyFrom\":\"1011757\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1606792485829\",\"bodyType\":\"3\",\"isSender\":false}",
+                "mId": 438,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606792463774,
+                "body": "{\"bodyContent\":\"VG+2gNZU+P7J9SmWlZNf8bdUCCHfFmcpf2Bchs2zhWmSK06fORlrbX4L3X+8mEwJ6gnp7Qs1cqssfcJYy0Kog6KSSn+j+eMu+eGNiNQrO0oPJ0ZXjlyv4qTQCja25gyaljzd+DkaKdz9HUWr4e5lBr06Ph+1IuVmmUk33pe0BUB8qJLAXdCP1TTlnNwMsz5KxjtFvDZBKaF4E8EIjRoaeg==\",\"bodyExpire\":0,\"bodyFrom\":\"1010414\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1606792463773\",\"bodyType\":\"3\",\"isSender\":false}",
+                "mId": 437,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606792383100,
+                "body": "{\"bodyContent\":\"VG+2gNZU+P7J9SmWlZNf8bdUCCHfFmcpf2Bchs2zhWmSK06fORlrbWyLAtl+Jq5Xx1oYMmh7M1m1+tUeygzLh5Dmg2/1LPPvtTrRjqOoULF2mjx6LmF3lz/kzgzH2rCaeuhfkrMklcU2m9GJLNt/TMYHia2pI167pNMK30+r7QH2nsOmN4b05aWHQs8pMFah8wihafGmQ/YgyEgjlXgCWA==\",\"bodyExpire\":0,\"bodyFrom\":\"1010414\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1606792383099\",\"bodyType\":\"3\",\"isSender\":false}",
+                "mId": 436,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606792296131,
+                "body": "{\"bodyContent\":\"{\\\"inviter\\\":[{\\\"userId\\\":\\\"1010414\\\",\\\"userName\\\":\\\"小D\\\"}],\\\"operatorId\\\":\\\"1011757\\\",\\\"operatorName\\\":\\\"测试-陈清\\\",\\\"type\\\":15}\",\"bodyFrom\":\"12314\",\"bodyLevel\":0,\"bodyTime\":\"1606792296130\",\"bodyType\":\"19\"}",
+                "mId": 435,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606792242572,
+                "body": "{\"bodyContent\":\"VG+2gNZU+P64jfXUhFS+2orkDQbb4NwqEH95v/zO3DGr69rRog5nAxnVuxaltzGkREIF0orNLrmG9IiOBDUfurFQPpxVCh8I9OPGFQqlUzXNIWld8pKyYSpy1VBfiUc+XGjM6WS3a9ageDh9xS4kg9IwmZUkW62qzLgQFXwocG8BnNjSSEtCgFBVNbp/RsLHPsOhEZNxwg7D2HvcEsReMg==\",\"bodyExpire\":0,\"bodyFrom\":\"1010414\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1606792242570\",\"bodyType\":\"3\",\"isSender\":false}",
+                "mId": 434,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606787251722,
+                "body": "{\"bodyContent\":\"dT70XDcrvx3+eLfa/FpWnucbGs0H5p18mJuVhwVMc8o1S8qLYs9T1oHkY5xsrx+yZa2IaUG7z7E=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606787251722\",\"bodyType\":\"28\"}",
+                "mId": 433,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606787056922,
+                "body": "{\"bodyContent\":\"dT70XDcrvx0QWOaR/sLam02y+UFymNwp2wv4QU2GaRqfBhok9Mh8XG45z+JqOe2b\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606787056922\",\"bodyType\":\"28\"}",
+                "mId": 432,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459846358,
+                "body": "{\"bodyContent\":\"ETByHb/ERYk=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459846357\",\"bodyType\":\"1\"}",
+                "mId": 430,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459843709,
+                "body": "{\"bodyContent\":\"+ZCQ0qD2W/U=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459843708\",\"bodyType\":\"1\"}",
+                "mId": 429,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459843366,
+                "body": "{\"bodyContent\":\"hDkV4P0BV1c=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459843364\",\"bodyType\":\"1\"}",
+                "mId": 428,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459843217,
+                "body": "{\"bodyContent\":\"6geq2ecuspg=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459843214\",\"bodyType\":\"1\"}",
+                "mId": 427,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459843033,
+                "body": "{\"bodyContent\":\"2u/XoCFke6w=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459842991\",\"bodyType\":\"1\"}",
+                "mId": 426,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459842952,
+                "body": "{\"bodyContent\":\"6geq2ecuspg=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459842951\",\"bodyType\":\"1\"}",
+                "mId": 425,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459842852,
+                "body": "{\"bodyContent\":\"K1l+6nvPYQE=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459842850\",\"bodyType\":\"1\"}",
+                "mId": 424,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459841589,
+                "body": "{\"bodyContent\":\"EnpnBVFP+fw=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459841588\",\"bodyType\":\"1\"}",
+                "mId": 423,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459841178,
+                "body": "{\"bodyContent\":\"2u/XoCFke6w=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459841176\",\"bodyType\":\"1\"}",
+                "mId": 422,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459840841,
+                "body": "{\"bodyContent\":\"8OHoCzB5J8U=\",\"bodyFrom\":\"1010414\",\"bodyLevel\":1,\"bodyTime\":\"1606459840839\",\"bodyType\":\"1\"}",
+                "mId": 421,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459830186,
+                "body": "{\"bodyContent\":\"a8gzHrZAtG7D5HxHTqwotw==\",\"bodyFrom\":\"1010394\",\"bodyLevel\":1,\"bodyTime\":\"1606459830185\",\"bodyType\":\"1\"}",
+                "mId": 420,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459828718,
+                "body": "{\"bodyContent\":\"TgWAddCbElOJUQqwcpD10ZDShMdIb1ZuRYMK/fZa5y3+IQuWR4izGg==\",\"bodyFrom\":\"1010394\",\"bodyLevel\":1,\"bodyTime\":\"1606459828715\",\"bodyType\":\"1\"}",
+                "mId": 419,
+                "readNum": 0
+            },
+            {
+                "createTime": 1606459826321,
+                "body": "{\"bodyContent\":\"7YW/OCYZ4HqJbRMyri8dUZp8qJE/gqELHgwoAz+PAUPJdigroRvpFt6b0oca1dryia8/mpmDbd0ZEXyfUZjhAQ==\",\"bodyFrom\":\"1010394\",\"bodyLevel\":1,\"bodyTime\":\"1606459826316\",\"bodyType\":\"1\"}",
+                "mId": 418,
+                "readNum": 0
+            },
+            {
+                "createTime": 1583832984881,
+                "body": "{\"bodyContent\":\"Wf5xksrbGS0VgufbD3AyZA==\",\"bodyExpire\":0,\"bodyFrom\":\"1010394\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1583832984877\",\"bodyType\":\"1\"}",
+                "mId": 417,
+                "readNum": 14,
+                "readUserId": 1010357
+            },
+            {
+                "createTime": 1583832982566,
+                "body": "{\"bodyContent\":\"hQV6iX7QhBc=\",\"bodyExpire\":0,\"bodyFrom\":\"1010394\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1583832982561\",\"bodyType\":\"1\"}",
+                "mId": 416,
+                "readNum": 14,
+                "readUserId": 1010357
+            },
+            {
+                "createTime": 1583832981196,
+                "body": "{\"bodyContent\":\"dWSRvOvFZYkcZpfktXL3xw==\",\"bodyExpire\":0,\"bodyFrom\":\"1010394\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1583832981193\",\"bodyType\":\"1\"}",
+                "mId": 415,
+                "readNum": 14,
+                "readUserId": 1010357
+            },
+            {
+                "createTime": 1583832960634,
+                "body": "{\"bodyContent\":\"ApO0/l3SK7XOdgSpzOTHnw==\",\"bodyExpire\":0,\"bodyFrom\":\"1010394\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1583832960630\",\"bodyType\":\"1\"}",
+                "mId": 414,
+                "readNum": 14,
+                "readUserId": 1010357
+            },
+            {
+                "createTime": 1583832960484,
+                "body": "{\"bodyContent\":\"guSOdJU4sbWNI/5BLQbcoWPYXau8XXI1\",\"bodyExpire\":0,\"bodyFrom\":\"1010394\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1583832960481\",\"bodyType\":\"1\"}",
+                "mId": 413,
+                "readNum": 14,
+                "readUserId": 1010357
+            },
+            {
+                "createTime": 1583832960331,
+                "body": "{\"bodyContent\":\"iUieoIJMKfY=\",\"bodyExpire\":0,\"bodyFrom\":\"1010394\",\"bodyFromType\":0,\"bodyLevel\":1,\"bodyTime\":\"1583832960328\",\"bodyType\":\"1\"}",
+                "mId": 412,
+                "readNum": 14,
+                "readUserId": 1010357
+            }
+        ],
+        "isLastPage": false
+    }
+}

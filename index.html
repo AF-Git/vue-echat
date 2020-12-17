@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+  <link href="./static/favicon.ico" mce_href="./static/favicon.ico" rel="icon" type="image/x-icon">
+  <script src="./static/base.js"></script>
+  <!-- <link href="/otc/static/favicon.ico" mce_href="/otc/static/favicon.ico" rel="icon" type="image/x-icon">
+  <script src="/otc/base.js"></script> -->
+  <title>EchatAPP Global</title>
+</head>
+
+<body>
+  <div id="app"></div>
+</body>
+
+<script src="./static/js/browser-md5-file.js"></script>
+<script>
+  // 检查service workers 是否注册
+  if ('serviceWorker' in navigator) {
+    // 使用窗口加载事件保持页面加载性能
+    window.addEventListener('load', function(){
+      navigator.serviceWorker.register('./static/js/sw.js');
+    });
+  }
+</script>
+</html>

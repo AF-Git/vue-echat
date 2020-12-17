@@ -1,0 +1,159 @@
+{
+    "code": 0,
+    "timeDiffer": 0,
+    "data": [
+        {
+            "groupId": 12314,
+            "userId": 1010327,
+            "isAdmin": "0",
+            "createTime": 1568632697000,
+            "nickName": "Else*",
+            "avatar": "avatar/2020/12/08/NKOw6h5snlDe4v8T1i8.png",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010328,
+            "isAdmin": "1",
+            "createTime": 1568632697000,
+            "nickName": "LZJ",
+            "avatar": "private/M00/00/41/rBADZl5xuQiABS3IAAFvHTGWkwg757.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010329,
+            "isAdmin": "0",
+            "createTime": 1568632697000,
+            "nickName": "liuzijian",
+            "avatar": "private/M00/00/41/rBADZl5slcyAEVS0AACQl06pQfY724.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010338,
+            "isAdmin": "0",
+            "createTime": 1568632697000,
+            "nickName": "天河陈浩南1",
+            "avatar": "avatar/2020/08/18/mttL5dBkz6066POYngw.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010352,
+            "isAdmin": "0",
+            "createTime": 1568632697000,
+            "nickName": "8615766239517",
+            "avatar": "private/M00/00/45/rBADZl6QFLyAQC-cAACZh103I68105.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010355,
+            "isAdmin": "0",
+            "createTime": 1582109260000,
+            "nickName": "97118674519301",
+            "avatar": "private/M00/00/01/rBADZlzagiqAQ4TDAADDl3PnLMA05.jpeg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010393,
+            "isAdmin": "0",
+            "createTime": 1581597924000,
+            "nickName": "小乌龟",
+            "avatar": "avatar/2020/12/08/LjnVn4W6uwKaKFpGrBb.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010394,
+            "isAdmin": "0",
+            "createTime": 1581597924000,
+            "nickName": "小鹿",
+            "avatar": "avatar/2020/09/25/4mVEFuxNt5R4OFZy77M.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010411,
+            "isAdmin": "0",
+            "createTime": 1568632697000,
+            "nickName": "广告公司1微信l",
+            "avatar": "private/M00/00/0F/rBADZl1JP_SAZn9xAAA3thjqcVQ66.jpeg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010414,
+            "isAdmin": "0",
+            "createTime": 1581597924000,
+            "nickName": "小D",
+            "avatar": "avatar/2020/12/14/i2x1UiNuV4hMa01ui73.png",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010441,
+            "isAdmin": "0",
+            "createTime": 1568632697000,
+            "nickName": "牛奶和咖啡",
+            "avatar": "private/M00/00/2D/rBADZl3fc52AIafCAAESQwk_4YA458.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010443,
+            "isAdmin": "0",
+            "createTime": 1574173517000,
+            "nickName": "木木",
+            "avatar": "private/M00/00/47/rBADZl6nkryAaNgWAAEe7mdtkrE729.png",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010445,
+            "isAdmin": "0",
+            "createTime": 1581597924000,
+            "nickName": "高晓崇",
+            "avatar": "2020/06/10/CPJqBS7yt2Il5os2hxy.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010463,
+            "isAdmin": "0",
+            "createTime": 1568632697000,
+            "nickName": "小菲",
+            "avatar": "private/M00/00/30/rBADZl34QDWAIHRXAADjyiKbkZ0205.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010464,
+            "isAdmin": "0",
+            "createTime": 1606792663000,
+            "nickName": "产品—WGH",
+            "avatar": "avatar/2020/11/24/Act7IdE3tfusnsrz2qb.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1010563,
+            "isAdmin": "0",
+            "createTime": 1576055143000,
+            "nickName": "龚汉升",
+            "avatar": "private/M00/00/3D/rBADZl48xEuAcD3KAAFHmVkITW8284.jpg",
+            "isBanned": 0
+        },
+        {
+            "groupId": 12314,
+            "userId": 1011757,
+            "isAdmin": "0",
+            "createTime": 1606792296000,
+            "nickName": "测试-陈清",
+            "avatar": "avatar/2020/11/26/sbzmWEOZb4u0znQLrWw.png",
+            "isBanned": 0
+        }
+    ]
+}
